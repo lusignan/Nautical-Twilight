@@ -1,6 +1,6 @@
 # Nautical Twilight
 
-A theme inspired by the sunset over the water.
+A VSCode theme inspired by the sunset over the water.
 
 > Note: This theme is in early development and is subject to change frequently and significantly.
 
