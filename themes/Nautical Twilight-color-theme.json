@@ -202,7 +202,8 @@
 		"notebookStatusErrorIcon.foreground": "#DF6A19",
 		"notebook.rowHoverBackground": "#7CB6F440",
 		"minimapSlider.activeBackground": "#7CB6F450",
-		"errorForeground": "#E07A7A"
+		"errorForeground": "#E07A7A",
+		"notebook.selectedCellBorder": "#242732"
 	}, 
 	"tokenColors": [
 		{
