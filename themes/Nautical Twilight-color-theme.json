@@ -199,7 +199,7 @@
 		"tree.indentGuidesStroke": "#656B75",
 		"widget.shadow": "#00000030",
 		"editor.foldBackground": "#242732",
-		"notebookStatusErrorIcon.foreground": "#DF6A19",
+		"notebookStatusErrorIcon.foreground": "#df192b",
 		"notebook.rowHoverBackground": "#7CB6F440",
 		"minimapSlider.activeBackground": "#7CB6F450",
 		"errorForeground": "#E07A7A",
