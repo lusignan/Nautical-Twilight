@@ -339,7 +339,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#6CDBE2"
+				"foreground": "#f4ba7c"
 			}
 		},
 		{
@@ -440,7 +440,7 @@
 				"meta.attribute"
 			],
 			"settings": {
-				"foreground": "#DE7A76",
+				"foreground": "#928CF6",
 				"fontStyle": "italic"
 			}
 		},
