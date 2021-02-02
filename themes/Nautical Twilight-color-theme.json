@@ -257,7 +257,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#E78069",
+				"foreground": "#C792EA",
 				"fontStyle": "italic"
 			}
 		},
@@ -295,7 +295,7 @@
 				"constant.character.format"
 			],
 			"settings": {
-				"foreground": "#E78069",
+				"foreground": "#C792EA",
 				"fontStyle": "italic"
 			}
 		},
@@ -429,7 +429,7 @@
 				"meta.attribute"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ea92e1"
 			}
 		},
 		{
