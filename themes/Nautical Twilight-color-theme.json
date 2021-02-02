@@ -164,7 +164,7 @@
 		"sideBarTitle.foreground": "#B8BDC5",
 		"statusBar.background": "#292D39",
 		"statusBar.border": "#292D3960",
-		"statusBar.debuggingBackground": "#DF6A19",
+		"statusBar.debuggingBackground": "#7CB6F4",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.foreground": "#B8BDC5",
 		"statusBar.noFolderBackground": "#292D39",
@@ -286,16 +286,17 @@
 				"keyword.operator.assignment"
 			],
 			"settings": {
-				"foreground": "#E78069"
+				"foreground": "#de7a76"
 			}
 		},
 		{
 			"name": "Placeholder",
 			"scope": [
-				"constant.character.format"
+				"constant.character.format",
+				"storage.type.format"
 			],
 			"settings": {
-				"foreground": "#C792EA",
+				"foreground": "#de7a76",
 				"fontStyle": "italic"
 			}
 		},
@@ -307,7 +308,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#E78069"
+				"foreground": "#de7a76"
 			}
 		},
 		{
@@ -346,7 +347,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#E07A7A"
+				"foreground": "#de7a76"
 			}
 		},
 		{
@@ -356,7 +357,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#E07A7A"
+				"foreground": "#de7a76"
 			}
 		},
 		{
@@ -420,7 +421,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#f4ba7c"
+				"foreground": "#EA92E1"
 			}
 		},
 		{
@@ -429,7 +430,7 @@
 				"meta.attribute"
 			],
 			"settings": {
-				"foreground": "#ea92e1"
+				"foreground": "#F4BA7C"
 			}
 		},
 		{
@@ -454,7 +455,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#E07A7A"
+				"foreground": "#de7a76"
 			}
 		},
 		{
@@ -464,7 +465,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#E07A7A"
+				"foreground": "#de7a76"
 			}
 		},
 		{
@@ -599,7 +600,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#E07A7A"
+				"foreground": "#de7a76"
 			}
 		},
 		{
@@ -617,7 +618,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#E78069"
+				"foreground": "#de7a76"
 			}
 		},
 		{
@@ -671,7 +672,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#E78069"
+				"foreground": "#de7a76"
 			}
 		},
 		{
