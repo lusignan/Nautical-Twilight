@@ -6,6 +6,9 @@ A VSCode theme inspired by the sunset over the water 🌅⚓
 
 > Note: This theme is in early development and is subject to change frequently and significantly.
 
+## Screenshots
+![Python Example](img/Python.png)
+
 ## Supported Languages
 * Python
 * Julia
