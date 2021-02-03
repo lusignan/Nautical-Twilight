@@ -3,7 +3,7 @@
     "publisher": "lusignan",
     "displayName": "Nautical Twilight",
     "description": "Theme inspired by the blue, purple, and orange of sunset on the water.",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "engines": {
         "vscode": "^1.52.0"
     },
