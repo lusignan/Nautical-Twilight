@@ -339,7 +339,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#FDDAAB"
+				"foreground": "#FCB2A2"
 			}
 		},
 		{
@@ -422,7 +422,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FCB2A2"
+				"foreground": "#FDDAAB"
 			}
 		},
 		{
@@ -431,7 +431,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#FCB2A2"
+				"foreground": "#FDDAAB"
 			}
 		},
 		{
