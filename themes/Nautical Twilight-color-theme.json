@@ -257,7 +257,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#A898F9",
+				"foreground": "#C792EA",
 				"fontStyle": "italic"
 			}
 		},
@@ -267,7 +267,7 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#A898F9",
+				"foreground": "#C792EA",
 				"fontStyle": "italic"
 			}
 		},
@@ -286,7 +286,7 @@
 				"keyword.operator"
 			],
 			"settings": {
-				"foreground": "#80d8ff"
+				"foreground": "#7ACEFA"
 			}
 		},
 		{
@@ -306,7 +306,7 @@
 				"storage.type.format"
 			],
 			"settings": {
-				"foreground": "#A898F9",
+				"foreground": "#eec7cf",
 				"fontStyle": "italic"
 			}
 		},
@@ -411,7 +411,7 @@
 			}
 		},
 		{
-			"name": "Class, Support",
+			"name": "Class",
 			"scope": [
 				"entity.name",
 				"support.class",
@@ -419,16 +419,10 @@
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
-				"support.type.sys-types"
-			],
-			"settings": {
-				"foreground": "#FDDAAB"
-			}
-		},
-		{
-			"name": "Entity Types",
-			"scope": [
-				"support.type"
+				"support.type.sys-types",
+				"entity.name.type.class",
+				"support.type",
+				"entity.name.class"
 			],
 			"settings": {
 				"foreground": "#FDDAAB"
