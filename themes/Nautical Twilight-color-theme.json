@@ -23,7 +23,7 @@
 		"button.hoverBackground": "#6FB3F260",
 		"debugConsole.errorForeground": "#E07A7A",
 		"debugConsole.infoForeground": "#76CBD6",
-		"debugConsole.warningForeground": "#DF6A19",
+		"debugConsole.warningForeground": "#f26f72",
 		"debugToolBar.background": "#292D39",
 		"diffEditor.insertedTextBackground": "#6FB3F220",
 		"diffEditor.removedTextBackground": "#ff9cac20",
@@ -43,7 +43,7 @@
 		"editor.wordHighlightStrongBackground": "#c3e88d30",
 		"editorBracketMatch.background": "#292D39",
 		"editorBracketMatch.border": "#ffcc0050",
-		"editorCursor.foreground": "#80D8FF",
+		"editorCursor.foreground": "#7ACEFA",
 		"editorError.foreground": "#E07A7A70",
 		"editorGroup.border": "#00000030",
 		"editorGroup.dropBackground": "#E07A7A80",
@@ -137,7 +137,7 @@
 		"peekViewTitle.background": "#B8BDC505",
 		"peekViewTitleDescription.foreground": "#B8BDC560",
 		"pickerGroup.border": "#ffffff1a",
-		"pickerGroup.foreground": "#76CBD6",
+		"pickerGroup.foreground": "#C792EA",
 		"progressBar.background": "#6FB3F2",
 		"quickInput.background": "#292D39",
 		"quickInput.foreground": "#B8BCD3",
@@ -188,7 +188,7 @@
 		"tab.hoverForeground": "#6FB3F2",
 		"terminal.foreground": "#B8BCD3",
 		"terminalCursor.background": "#000000",
-		"terminalCursor.foreground": "#6FB3F2",
+		"terminalCursor.foreground": "#7ACEFA",
 		"textLink.activeForeground": "#B8BCD3",
 		"textLink.foreground": "#76CBD6",
 		"titleBar.activeBackground": "#292D39",
@@ -199,7 +199,7 @@
 		"tree.indentGuidesStroke": "#B8BCD380",
 		"widget.shadow": "#00000030",
 		"editor.foldBackground": "#242732",
-		"notebookStatusErrorIcon.foreground": "#df192b",
+		"notebookStatusErrorIcon.foreground": "#f26f72",
 		"notebook.rowHoverBackground": "#6FB3F240",
 		"minimapSlider.activeBackground": "#6FB3F250",
 		"errorForeground": "#E07A7A",
@@ -357,7 +357,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#de7a76"
+				"foreground": "#B8BCD3"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#de7a76"
+				"foreground": "#B8BCD3"
 			}
 		},
 		{
@@ -460,7 +460,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#de7a76"
+				"foreground": "#B8BCD3"
 			}
 		},
 		{
@@ -470,7 +470,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#de7a76"
+				"foreground": "#B8BCD3"
 			}
 		},
 		{
