@@ -14,6 +14,7 @@ A VSCode theme inspired by the sunset over the water 🌅⚓
 ## Supported Languages
 * Python
 * Julia
+* Javascript (in progress)
 
 ## Acknowledgments
 Nautical Twilight was influenced by:
