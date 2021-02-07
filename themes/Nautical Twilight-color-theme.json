@@ -318,7 +318,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#de7a76"
+				"foreground": "#8796FA"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#F5EFDF"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#8796FA"
+				"foreground": "#F5EFDF"
 			}
 		},
 		{
