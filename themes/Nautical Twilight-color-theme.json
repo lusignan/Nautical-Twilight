@@ -243,7 +243,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#E07A7A"
+				"foreground": "#FF7F9D"
 			}
 		},
 		{
@@ -554,7 +554,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#E07A7A"
+				"foreground": "#FF7F9D"
 			}
 		},
 		{
