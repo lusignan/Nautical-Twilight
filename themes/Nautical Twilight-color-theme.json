@@ -11,8 +11,8 @@
 		"activityBar.foreground": "#E0E9FF",
 		"activityBarBadge.background": "#7ACEFA60",
 		"activityBarBadge.foreground": "#7ACEFA",
-		"badge.background": "#8796FA30",
-		"badge.foreground": "#8796FA",
+		"badge.background": "#8C8CFA30",
+		"badge.foreground": "#8C8CFA",
 		"breadcrumb.activeSelectionForeground": "#7ACEFA",
 		"breadcrumb.background": "#292D39",
 		"breadcrumb.focusForeground": "#b1bbd7",
@@ -79,9 +79,9 @@
 		"editorWidget.border": "#7ACEFA",
 		"editorWidget.resizeBorder": "#7ACEFA",
 		"extensionBadge.remoteForeground": "#b1bbd7",
-		"extensionButton.prominentBackground": "#8796FA90",
+		"extensionButton.prominentBackground": "#8C8CFA90",
 		"extensionButton.prominentForeground": "#000000",
-		"extensionButton.prominentHoverBackground": "#8796FA",
+		"extensionButton.prominentHoverBackground": "#8C8CFA",
 		"focusBorder": "#ffffff00",
 		"foreground": "#E0E9FF",
 		"gitDecoration.conflictingResourceForeground": "#FFCC8090",
@@ -137,7 +137,7 @@
 		"peekViewTitle.background": "#b1bbd705",
 		"peekViewTitleDescription.foreground": "#b1bbd760",
 		"pickerGroup.border": "#ffffff1a",
-		"pickerGroup.foreground": "#8796FA",
+		"pickerGroup.foreground": "#8C8CFA",
 		"progressBar.background": "#7ACEFA",
 		"quickInput.background": "#292D39",
 		"quickInput.foreground": "#b1bbd7",
@@ -151,7 +151,7 @@
 		"settings.dropdownBackground": "#292D39",
 		"settings.dropdownForeground": "#b1bbd7",
 		"settings.headerForeground": "#7ACEFA",
-		"settings.modifiedItemIndicator": "#8796FA",
+		"settings.modifiedItemIndicator": "#8C8CFA",
 		"settings.numberInputBackground": "#292D39",
 		"settings.numberInputForeground": "#b1bbd7",
 		"settings.textInputBackground": "#292D39",
@@ -164,7 +164,7 @@
 		"sideBarTitle.foreground": "#b1bbd7",
 		"statusBar.background": "#292D39",
 		"statusBar.border": "#292D3960",
-		"statusBar.debuggingBackground": "#8796FA",
+		"statusBar.debuggingBackground": "#8C8CFA",
 		"statusBar.debuggingForeground": "#E0E9FF",
 		"statusBar.foreground": "#b1bbd7",
 		"statusBar.noFolderBackground": "#292D39",
@@ -184,8 +184,8 @@
 		"tab.unfocusedActiveForeground": "#9DA3B1",
 		"tab.unfocusedActiveModifiedBorder": "#c05a60",
 		"tab.unfocusedInactiveModifiedBorder": "#904348",
-		"tab.hoverBackground": "#7ACEFA30",
-		"tab.hoverForeground": "#7ACEFA",
+		"tab.hoverBackground": "#292D39",
+		"tab.hoverForeground": "#E0E9FF",
 		"terminal.foreground": "#b1bbd7",
 		"terminalCursor.background": "#000000",
 		"terminalCursor.foreground": "#7ACEFA",
@@ -257,7 +257,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#8796FA",
+				"foreground": "#8C8CFA",
 				"fontStyle": "italic"
 			}
 		},
@@ -267,7 +267,7 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#8796FA",
+				"foreground": "#8C8CFA",
 				"fontStyle": "italic"
 			}
 		},
@@ -320,7 +320,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#8796FA"
+				"foreground": "#8C8CFA"
 			}
 		},
 		{
@@ -520,7 +520,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#8796FA"
+				"foreground": "#8C8CFA"
 			}
 		},
 		{
@@ -529,7 +529,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#8796FA"
+				"foreground": "#8C8CFA"
 			}
 		},
 		{
@@ -565,7 +565,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#8796FA"
+				"foreground": "#8C8CFA"
 			}
 		},
 		{
@@ -624,7 +624,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#8796FA"
+				"foreground": "#8C8CFA"
 			}
 		},
 		{
@@ -716,7 +716,7 @@
 				"entity.name.section.markdown"
 			],
 			"settings": {
-				"foreground": "#8796FA"
+				"foreground": "#8C8CFA"
 			}
 		},
 		{
@@ -736,7 +736,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#8796FA"
+				"foreground": "#8C8CFA"
 			}
 		},
 		{
@@ -818,7 +818,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#8796FA"
+				"foreground": "#8C8CFA"
 			}
 		},
 		{
@@ -836,7 +836,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#8796FA"
+				"foreground": "#8C8CFA"
 			}
 		},
 		{
