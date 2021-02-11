@@ -2,19 +2,12 @@
 
 # Nautical Twilight
 
-A VSCode theme inspired by the sunset over the water 🌅⚓
-
-> Note: This theme is in early development and is subject to change frequently and significantly.
+A nautical blue theme for [Visual Studio Code](https://code.visualstudio.com). 🌅⚓
 
 ## Screenshots
 ![Python Example](img/Python.png)
 
 ![Notebook Example](img/notebook.png)
-
-## Supported Languages
-* Python
-* Julia
-* Javascript (in progress)
 
 ## Acknowledgments
 Nautical Twilight was influenced by:
