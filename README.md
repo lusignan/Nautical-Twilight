@@ -2,11 +2,14 @@
 
 # Nautical Twilight
 
-A nautical blue theme for [Visual Studio Code](https://code.visualstudio.com). 🌅⚓
+A nautical grey-blue theme for [Visual Studio Code](https://code.visualstudio.com). 🌅⚓
 
 ## Screenshots
+
+### Python
 ![Python Example](img/Python.png)
 
+### Jupyter Notebooks
 ![Notebook Example](img/notebook.png)
 
 ## Acknowledgments
