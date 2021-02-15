@@ -73,7 +73,7 @@
 		"editorSuggestWidget.foreground": "#b1bbd7",
 		"editorSuggestWidget.highlightForeground": "#8CC3FA",
 		"editorSuggestWidget.selectedBackground": "#00000050",
-		"editorWarning.foreground": "#FFCC8070",
+		"editorWarning.foreground": "#FA6E7A70",
 		"editorWhitespace.foreground": "#b1bbd740",
 		"editorWidget.background": "#1e212a",
 		"editorWidget.border": "#8CC3FA",
@@ -84,11 +84,11 @@
 		"extensionButton.prominentHoverBackground": "#8C8CFA",
 		"focusBorder": "#8cc3fa20",
 		"foreground": "#E0E9FF",
-		"gitDecoration.conflictingResourceForeground": "#FFCC8090",
+		"gitDecoration.conflictingResourceForeground": "#FA6E7A90",
 		"gitDecoration.deletedResourceForeground": "#f0717890",
 		"gitDecoration.ignoredResourceForeground": "#b1bbd790",
 		"gitDecoration.modifiedResourceForeground": "#8CC3FA90",
-		"gitDecoration.untrackedResourceForeground": "#98c37990",
+		"gitDecoration.untrackedResourceForeground": "#bffaff90",
 		"input.background": "#242732",
 		"input.border": "#8cc3fa20",
 		"input.foreground": "#b1bbd780",
@@ -301,7 +301,7 @@
 				"keyword.operator.assignment"
 			],
 			"settings": {
-				"foreground": "#f9939c"
+				"foreground": "#F9939C"
 			}
 		},
 		{
