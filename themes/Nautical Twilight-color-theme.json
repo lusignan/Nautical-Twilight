@@ -9,10 +9,10 @@
 		"activityBar.background": "#292D39",
 		"activityBar.border": "#292D3960",
 		"activityBar.foreground": "#E0E9FF",
-		"activityBarBadge.background": "#EEC7D230",
-		"activityBarBadge.foreground": "#EEC7D2",
-		"badge.background": "#EEC7D230",
-		"badge.foreground": "#EEC7D2",
+		"activityBarBadge.background": "#8C8CFA30",
+		"activityBarBadge.foreground": "#8C8CFA",
+		"badge.background": "#8C8CFA30",
+		"badge.foreground": "#8C8CFA",
 		"breadcrumb.activeSelectionForeground": "#8CC3FA",
 		"breadcrumb.background": "#292D39",
 		"breadcrumb.focusForeground": "#b1bbd7",
@@ -138,7 +138,7 @@
 		"peekViewTitleDescription.foreground": "#b1bbd760",
 		"pickerGroup.border": "#ffffff1a",
 		"pickerGroup.foreground": "#8C8CFA",
-		"progressBar.background": "#8C8CFA",
+		"progressBar.background": "#FFD7DC",
 		"quickInput.background": "#242732",
 		"quickInput.foreground": "#b1bbd7",
 		"scrollbar.shadow": "#00000030",
@@ -174,7 +174,7 @@
 		"statusBar.noFolderBackground": "#292D39",
 		"statusBarItem.activeBackground": "#f0717880",
 		"statusBarItem.hoverBackground": "#b1bbd720",
-		"statusBarItem.remoteBackground": "#EEC7D2",
+		"statusBarItem.remoteBackground": "#FFD7DC",
 		"statusBarItem.remoteForeground": "#000000",
 		"tab.activeBackground": "#292D39",
 		"tab.activeBorder": "#8CC3FA",
@@ -311,7 +311,7 @@
 				"storage.type.format"
 			],
 			"settings": {
-				"foreground": "#EEC7D2",
+				"foreground": "#FFD7DC",
 				"fontStyle": "italic"
 			}
 		},
@@ -381,7 +381,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#bffaff"
+				"foreground": "#CCFBFF"
 			}
 		},
 		{
@@ -395,7 +395,7 @@
 				"keyword.other.unit",
 			],
 			"settings": {
-				"foreground": "#EEC7D2"
+				"foreground": "#FFD7DC"
 			}
 		},
 		{
@@ -786,7 +786,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#EEC7D2"
+				"foreground": "#FFD7DC"
 			}
 		},
 		{
