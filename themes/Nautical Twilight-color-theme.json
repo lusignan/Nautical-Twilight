@@ -439,7 +439,7 @@
 				"entity.name.class"
 			],
 			"settings": {
-				"foreground": "#fcdfa2"
+				"foreground": "#ffa5c3"
 			}
 		},
 		{
@@ -682,7 +682,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FDDBBE"
+				"foreground": "#ffa5c3"
 			}
 		},
 		{
