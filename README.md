@@ -9,7 +9,7 @@ A nautical grey-blue theme for [Visual Studio Code](https://code.visualstudio.co
 ### Python
 ![Python Example](img/Python.png)
 
-### Jupyter Notebooks
+### Jupyter Notebook
 ![Notebook Example](img/notebook.png)
 
 ## Acknowledgments
