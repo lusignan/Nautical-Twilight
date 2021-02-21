@@ -224,7 +224,8 @@
 		{
 			"name": "Variables",
 			"scope": [
-				"variable"
+				"variable",
+				"variable.other.readwrite"
 			],
 			"settings": {
 				"foreground": "#b1bbd7"
@@ -427,7 +428,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#FCF1DC",
+				"foreground": "#EEEEEE",
 				"fontStyle": "italic"
 			}
 		},
@@ -554,7 +555,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#FCF1DC"
+				"foreground": "#b1bbd7"
 			}
 		},
 		{

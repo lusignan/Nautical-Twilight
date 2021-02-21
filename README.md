@@ -12,6 +12,12 @@ A nautical grey-blue theme for [Visual Studio Code](https://code.visualstudio.co
 ### Python
 ![Python Example](img/Python.png)
 
+### Julia
+![Julia Example](img/Julia.png)
+
+### D3
+![D3 Example](img/d3.png)
+
 ### React
 ![React Example](img/react.png)
 
