@@ -6,11 +6,14 @@ A nautical grey-blue theme for [Visual Studio Code](https://code.visualstudio.co
 
 ## Screenshots
 
+### Jupyter Notebook
+![Notebook Example](img/notebook.png)
+
 ### Python
 ![Python Example](img/Python.png)
 
-### Jupyter Notebook
-![Notebook Example](img/notebook.png)
+### React
+![React Example](img/react.png)
 
 ## Acknowledgments
 Nautical Twilight was influenced by:

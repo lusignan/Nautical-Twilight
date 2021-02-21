@@ -224,8 +224,7 @@
 		{
 			"name": "Variables",
 			"scope": [
-				"variable",
-				"string constant.other.placeholder"
+				"variable"
 			],
 			"settings": {
 				"foreground": "#b1bbd7"
@@ -254,15 +253,25 @@
 			"name": "Keyword, Storage",
 			"scope": [
 				"keyword",
-				"storage.type",
 				"storage.modifier",
 				"keyword.control",
 				"constant.other.color",
-				"keyword.other"
+				"keyword.other",
+				"storage.type"
 			],
 			"settings": {
 				"foreground": "#8C8CFA",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": [
+				"storage.type.haskell",
+				"storage.modifier"
+			],
+			"settings": {
+				"foreground": "#FFB4AA"
 			}
 		},
 		{
@@ -290,7 +299,9 @@
 				"keyword.other.substitution",
 				"keyword.operator",
 				"meta.brace",
-				"meta.bracket"
+				"meta.bracket",
+				"meta.preprocessor.haskell",
+				"punctuation.section.class.end.bracket"
 			],
 			"settings": {
 				"foreground": "#9AE1FC"
@@ -310,7 +321,8 @@
 			"name": "Placeholder",
 			"scope": [
 				"constant.character.format",
-				"storage.type.format"
+				"storage.type.format",
+				"string constant.other.placeholder",
 			],
 			"settings": {
 				"foreground": "#FFD2E1",
@@ -321,12 +333,20 @@
 			"name": "Tag",
 			"scope": [
 				"entity.name.tag",
-				"meta.tag",
 				"meta.tag.sgml",
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#8C8CFA"
+				"foreground": "#9AE1FC"
+			}
+		},
+		{
+			"name": "Meta Tag",
+			"scope": [
+				"meta.tag"
+			],
+			"settings": {
+				"foreground": "#b1bbd7"
 			}
 		},
 		{
@@ -365,7 +385,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#b1bbd7"
+				"foreground": "#FFB4AA"
 			}
 		},
 		{
@@ -374,7 +394,7 @@
 				"support.other.variable"
 			],
 			"settings": {
-				"foreground": "#b1bbd7"
+				"foreground": "#FFB4AA"
 			}
 		},
 		{
@@ -395,6 +415,7 @@
 				"constant.character",
 				"constant.escape",
 				"keyword.other.unit",
+				"constant.other"
 			],
 			"settings": {
 				"foreground": "#FFD2E1"
@@ -406,17 +427,16 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#FFFDF8",
+				"foreground": "#FCF1DC",
 				"fontStyle": "italic"
 			}
 		},
 		{
-			"name": "String, Symbols, Inherited Class, Markup Heading",
+			"name": "String, Symbols, Markup Heading",
 			"scope": [
 				"string",
 				"constant.other.symbol",
-				"constant.other.key",
-				"entity.other.inherited-class",
+				"constant.other.key",				
 				"markup.heading",
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
@@ -426,9 +446,17 @@
 			}
 		},
 		{
+			"name": "Entity",
+			"scope": [
+				"entity.name"
+			],
+			"settings": {
+				"foreground": "#b1bbd7"
+			}
+		},
+		{
 			"name": "Class",
 			"scope": [
-				"entity.name",
 				"support.class",
 				"support.orther.namespace.use.php",
 				"meta.use.php",
@@ -437,10 +465,22 @@
 				"support.type.sys-types",
 				"entity.name.type.class",
 				"support.type",
-				"entity.name.class"
+				"entity.name.class",
+				"entity.other.inherited-class"			
 			],
 			"settings": {
 				"foreground": "#ffda91"
+			}
+		},
+		{
+			"name": "Variable Language",
+			"scope": [
+				"variable.language",
+				
+			],
+			"settings": {
+				"foreground": "#b1bbd7",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -449,7 +489,7 @@
 				"meta.attribute"
 			],
 			"settings": {
-				"foreground": "#ffa5c3",
+				"foreground": "#b1bbd7",
 				"fontStyle": "italic"
 			}
 		},
@@ -475,7 +515,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#b1bbd7"
+				"foreground": "#FFB4AA"
 			}
 		},
 		{
@@ -485,7 +525,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#b1bbd7"
+				"foreground": "#eaccff"
 			}
 		},
 		{
@@ -514,7 +554,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#F5EFDF"
+				"foreground": "#FCF1DC"
 			}
 		},
 		{
