@@ -386,13 +386,15 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#FFB4AA"
+				"foreground": "#b1bbd7"
 			}
 		},
 		{
 			"name": "Other Variable",
 			"scope": [
-				"support.other.variable"
+				"support.other.variable",
+				"variable.other.object.property",
+				"meta.embedded.expression"
 			],
 			"settings": {
 				"foreground": "#FFB4AA"

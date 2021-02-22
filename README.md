@@ -18,9 +18,6 @@ A nautical grey-blue theme for [Visual Studio Code](https://code.visualstudio.co
 ### D3
 ![D3 Example](img/d3.png)
 
-### React
-![React Example](img/react.png)
-
 ## Acknowledgments
 Nautical Twilight was influenced by:
 * [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
