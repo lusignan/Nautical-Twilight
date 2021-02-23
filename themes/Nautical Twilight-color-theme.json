@@ -10,17 +10,17 @@
 		"activityBar.border": "#292D3960",
 		"activityBar.foreground": "#E0E9FF",
 		"activityBarBadge.background": "#8C8CFA30",
-		"activityBarBadge.foreground": "#8C8CFA",
+		"activityBarBadge.foreground": "#ACB0FD",
 		"badge.background": "#8C8CFA30",
-		"badge.foreground": "#8C8CFA",
+		"badge.foreground": "#ACB0FD",
 		"breadcrumb.activeSelectionForeground": "#8CC3FA",
 		"breadcrumb.background": "#292D39",
 		"breadcrumb.focusForeground": "#b1bbd7",
 		"breadcrumb.foreground": "#b1bbd770",
 		"breadcrumbPicker.background": "#292D39",
 		"button.background": "#8C8CFA20",
-		"button.foreground": "#8C8CFA",
-		"button.hoverBackground": "#8C8CFA60",
+		"button.foreground": "#ACB0FD",
+		"button.hoverBackground": "#8C8CFA40",
 		"debugConsole.errorForeground": "#FA6E7A",
 		"debugConsole.infoForeground": "#E0E9FF",
 		"debugConsole.warningForeground": "#FA6E7A",
@@ -193,6 +193,7 @@
 		"terminal.foreground": "#b1bbd7",
 		"terminalCursor.background": "#000000",
 		"terminalCursor.foreground": "#8CC3FA",
+		"terminal.ansiBlue": "#ff0000",
 		"textLink.activeForeground": "#b1bbd7",
 		"textLink.foreground": "#bffaff",
 		"titleBar.activeBackground": "#292D39",
@@ -266,13 +267,13 @@
 			}
 		},
 		{
-			"name": "Storage",
+			"name": "Storage modifier",
 			"scope": [
 				"storage.type.haskell",
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#FFB4AA"
+				"foreground": "#9AE1FC"
 			}
 		},
 		{
