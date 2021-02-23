@@ -257,9 +257,11 @@
 				"keyword",
 				"storage.modifier",
 				"keyword.control",
-				"constant.other.color",
-				"keyword.other",
-				"storage.type"
+				"constant.other.color",				
+				"storage.type",
+				"storage.modifier",
+				"storage.type.haskell",
+				"keyword.other.julia"
 			],
 			"settings": {
 				"foreground": "#8C8CFA",
@@ -267,10 +269,9 @@
 			}
 		},
 		{
-			"name": "Storage modifier",
+			"name": "Keyword Other",
 			"scope": [
-				"storage.type.haskell",
-				"storage.modifier"
+				"keyword.other"
 			],
 			"settings": {
 				"foreground": "#9AE1FC"
@@ -398,7 +399,7 @@
 				"meta.embedded.expression"
 			],
 			"settings": {
-				"foreground": "#FFB4AA"
+				"foreground": "#FFD2B3"
 			}
 		},
 		{
@@ -455,7 +456,7 @@
 				"entity.name"
 			],
 			"settings": {
-				"foreground": "#b1bbd7"
+				"foreground": "#EBCDFF"
 			}
 		},
 		{
@@ -474,17 +475,6 @@
 			],
 			"settings": {
 				"foreground": "#ffda91"
-			}
-		},
-		{
-			"name": "Variable Language",
-			"scope": [
-				"variable.language",
-				
-			],
-			"settings": {
-				"foreground": "#b1bbd7",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -519,7 +509,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FFB4AA"
+				"foreground": "#FFD2B3"
 			}
 		},
 		{
@@ -529,7 +519,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#eaccff"
+				"foreground": "#FFD2B3"
 			}
 		},
 		{
