@@ -21,7 +21,7 @@ A nautical grey-blue theme for [Visual Studio Code](https://code.visualstudio.co
 ### Rust
 ![Rust Example](img/rust.png)
 
-### Javascript
+### JavaScript
 ![Javascript Example](img/javascript.png)
 
 
