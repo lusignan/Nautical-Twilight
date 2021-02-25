@@ -10,7 +10,7 @@ A nautical grey-blue theme for [Visual Studio Code](https://code.visualstudio.co
 ![Notebook Example](img/notebook.png)
 
 ### Python
-![Python Example](img/python.png)
+![Python Example](img/Python.png)
 
 ### Julia
 ![Julia Example](img/Julia.png)
