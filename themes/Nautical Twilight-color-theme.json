@@ -261,7 +261,9 @@
 				"storage.type",
 				"storage.modifier",
 				"storage.type.haskell",
-				"keyword.other.julia"
+				"keyword.other.julia",
+				"keyword.other.fn.rust",
+				"keyword.other.rust"
 			],
 			"settings": {
 				"foreground": "#8C8CFA",
@@ -360,7 +362,7 @@
 				"meta.function-call"
 			],
 			"settings": {
-				"foreground": "#91BEFF"
+				"foreground": "#8FC3FF"
 			}
 		},
 		{
@@ -370,7 +372,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#FFB4AA"
+				"foreground": "#FFB4B7"
 			}
 		},
 		{
@@ -399,7 +401,7 @@
 				"meta.embedded.expression"
 			],
 			"settings": {
-				"foreground": "#FFD2B3"
+				"foreground": "#b1bbd7"
 			}
 		},
 		{
@@ -456,7 +458,7 @@
 				"entity.name"
 			],
 			"settings": {
-				"foreground": "#EBCDFF"
+				"foreground": "#b1bbd7"
 			}
 		},
 		{
@@ -474,7 +476,7 @@
 				"entity.other.inherited-class"			
 			],
 			"settings": {
-				"foreground": "#ffda91"
+				"foreground": "#FFD2B3"
 			}
 		},
 		{
@@ -519,7 +521,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFD2B3"
+				"foreground": "#EBCDFF"
 			}
 		},
 		{
