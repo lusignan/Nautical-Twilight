@@ -3,7 +3,7 @@
     "publisher": "lusignan",
     "displayName": "Nautical Twilight",
     "description": "A dark, nautical, grey-blue theme.",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "engines": {
         "vscode": "^1.52.0"
     },
